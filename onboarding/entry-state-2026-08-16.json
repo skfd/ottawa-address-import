@@ -1,0 +1,2185 @@
+{
+  "city": "ottawa",
+  "bbox": [
+    44.97161,
+    -76.3414,
+    45.52724,
+    -75.25014
+  ],
+  "per_box": {
+    "centretown": {
+      "elements": 2556,
+      "users": [
+        [
+          "Matthew Darwin",
+          815
+        ],
+        [
+          "zzptichka",
+          538
+        ],
+        [
+          "DannyMcD",
+          508
+        ],
+        [
+          "kmpoppe (@ Mapillary Update)",
+          272
+        ],
+        [
+          "jazzjazzjazzjazzjazzjazz",
+          78
+        ],
+        [
+          "ordinarysparrow",
+          55
+        ],
+        [
+          "andrewpmk",
+          27
+        ],
+        [
+          "b-jazz-bot",
+          19
+        ]
+      ],
+      "years": [
+        [
+          "2017",
+          1030
+        ],
+        [
+          "2018",
+          604
+        ],
+        [
+          "2019",
+          153
+        ],
+        [
+          "2020",
+          57
+        ],
+        [
+          "2021",
+          20
+        ],
+        [
+          "2022",
+          321
+        ],
+        [
+          "2023",
+          63
+        ],
+        [
+          "2024",
+          78
+        ],
+        [
+          "2025",
+          158
+        ],
+        [
+          "2026",
+          72
+        ]
+      ]
+    },
+    "kanata": {
+      "elements": 1454,
+      "users": [
+        [
+          "Undearius",
+          1399
+        ],
+        [
+          "Matthew Darwin",
+          17
+        ],
+        [
+          "MattHauser",
+          10
+        ],
+        [
+          "zzptichka",
+          7
+        ],
+        [
+          "DannyMcD",
+          6
+        ],
+        [
+          "wordbird",
+          5
+        ],
+        [
+          "Douglas Terry",
+          3
+        ],
+        [
+          "Rps333",
+          1
+        ]
+      ],
+      "years": [
+        [
+          "2017",
+          12
+        ],
+        [
+          "2018",
+          6
+        ],
+        [
+          "2019",
+          6
+        ],
+        [
+          "2020",
+          3
+        ],
+        [
+          "2021",
+          2
+        ],
+        [
+          "2022",
+          1400
+        ],
+        [
+          "2023",
+          16
+        ],
+        [
+          "2024",
+          1
+        ],
+        [
+          "2025",
+          5
+        ],
+        [
+          "2026",
+          3
+        ]
+      ]
+    },
+    "orleans": {
+      "elements": 2187,
+      "users": [
+        [
+          "DannyMcD",
+          1011
+        ],
+        [
+          "LogicalViolinist",
+          694
+        ],
+        [
+          "Matthew Darwin",
+          355
+        ],
+        [
+          "zzptichka",
+          53
+        ],
+        [
+          "Cubical",
+          33
+        ],
+        [
+          "Imminent",
+          17
+        ],
+        [
+          "computerOwl",
+          8
+        ],
+        [
+          "gfysgerm",
+          7
+        ]
+      ],
+      "years": [
+        [
+          "2016",
+          4
+        ],
+        [
+          "2017",
+          236
+        ],
+        [
+          "2018",
+          581
+        ],
+        [
+          "2019",
+          738
+        ],
+        [
+          "2021",
+          58
+        ],
+        [
+          "2022",
+          130
+        ],
+        [
+          "2023",
+          3
+        ],
+        [
+          "2024",
+          225
+        ],
+        [
+          "2025",
+          195
+        ],
+        [
+          "2026",
+          17
+        ]
+      ]
+    }
+  },
+  "users": [
+    [
+      "DannyMcD",
+      1525
+    ],
+    [
+      "Undearius",
+      1407
+    ],
+    [
+      "Matthew Darwin",
+      1187
+    ],
+    [
+      "LogicalViolinist",
+      695
+    ],
+    [
+      "zzptichka",
+      598
+    ],
+    [
+      "kmpoppe (@ Mapillary Update)",
+      272
+    ],
+    [
+      "jazzjazzjazzjazzjazzjazz",
+      78
+    ],
+    [
+      "ordinarysparrow",
+      55
+    ],
+    [
+      "Cubical",
+      33
+    ],
+    [
+      "andrewpmk",
+      30
+    ],
+    [
+      "b-jazz-bot",
+      20
+    ],
+    [
+      "Rps333",
+      19
+    ],
+    [
+      "tecywiz121",
+      18
+    ],
+    [
+      "ott2map",
+      18
+    ],
+    [
+      "Anen13",
+      17
+    ],
+    [
+      "Imminent",
+      17
+    ],
+    [
+      "Lottara",
+      15
+    ],
+    [
+      "DannyMcD_imports",
+      11
+    ],
+    [
+      "Kakurady",
+      10
+    ],
+    [
+      "islomane",
+      10
+    ],
+    [
+      "MattHauser",
+      10
+    ],
+    [
+      "PinRPG",
+      9
+    ],
+    [
+      "kelvinc",
+      9
+    ],
+    [
+      "computerOwl",
+      8
+    ],
+    [
+      "wordbird",
+      7
+    ],
+    [
+      "Bastoth",
+      7
+    ],
+    [
+      "gfysgerm",
+      7
+    ],
+    [
+      "FloatyOwl",
+      5
+    ],
+    [
+      "zorglubu",
+      5
+    ],
+    [
+      "nomia_gis",
+      5
+    ],
+    [
+      "TheMonroeMapper",
+      4
+    ],
+    [
+      "OttawaTek",
+      4
+    ],
+    [
+      "GullibleMappazo",
+      3
+    ],
+    [
+      "Peter Maris",
+      3
+    ],
+    [
+      "alanko0511",
+      3
+    ],
+    [
+      "ELSW56",
+      3
+    ],
+    [
+      "Douglas Terry",
+      3
+    ],
+    [
+      "grag_e",
+      2
+    ],
+    [
+      "Blynk",
+      2
+    ],
+    [
+      "Thalab12",
+      2
+    ],
+    [
+      "Jon Kolbert",
+      2
+    ],
+    [
+      "longbee",
+      2
+    ],
+    [
+      "cyril31",
+      2
+    ],
+    [
+      "Stuart_L",
+      2
+    ],
+    [
+      "hoof204",
+      2
+    ],
+    [
+      "FreshlyTweezed",
+      2
+    ],
+    [
+      "CarolusCompass",
+      2
+    ],
+    [
+      "Brotha Grimm",
+      2
+    ],
+    [
+      "CjMalone",
+      2
+    ],
+    [
+      "hugolatulippe",
+      2
+    ],
+    [
+      "torapa",
+      2
+    ],
+    [
+      "cpmsmith",
+      2
+    ],
+    [
+      "GridLines",
+      1
+    ],
+    [
+      "arcaneasada",
+      1
+    ],
+    [
+      "nikita-skakun",
+      1
+    ],
+    [
+      "Allonautilus",
+      1
+    ],
+    [
+      "anotherrobin",
+      1
+    ],
+    [
+      "Hussein AlDahhan",
+      1
+    ],
+    [
+      "Wherfust4",
+      1
+    ],
+    [
+      "Cmbc0883",
+      1
+    ],
+    [
+      "Mickael S",
+      1
+    ],
+    [
+      "Idndnxidjdbdiu",
+      1
+    ],
+    [
+      "imamapperguy",
+      1
+    ],
+    [
+      "Mateusz Konieczny - bot account",
+      1
+    ],
+    [
+      "Graptemys",
+      1
+    ],
+    [
+      "RudolpheDeer",
+      1
+    ],
+    [
+      "Pymouss",
+      1
+    ],
+    [
+      "lovelyfurball88",
+      1
+    ],
+    [
+      "u1009",
+      1
+    ],
+    [
+      "ottawaenvironmental",
+      1
+    ],
+    [
+      "PistachioGuy",
+      1
+    ],
+    [
+      "confusedbuffalo-bot",
+      1
+    ],
+    [
+      "Hannes R\u00f6st",
+      1
+    ],
+    [
+      "maxwellward",
+      1
+    ],
+    [
+      "TronnaLegacy",
+      1
+    ],
+    [
+      "Himk\u00e9",
+      1
+    ],
+    [
+      "Manu1400",
+      1
+    ],
+    [
+      "Hack-o-lantern",
+      1
+    ],
+    [
+      "Dartmouthmapmaker",
+      1
+    ],
+    [
+      "Pernycek",
+      1
+    ],
+    [
+      "Johnwhelan",
+      1
+    ],
+    [
+      "Alex L Pilon",
+      1
+    ],
+    [
+      "0x4273",
+      1
+    ],
+    [
+      "Jebel_Hafeet",
+      1
+    ],
+    [
+      "Madi-Red",
+      1
+    ],
+    [
+      "skumarchandela_lyft",
+      1
+    ],
+    [
+      "wfsnow",
+      1
+    ],
+    [
+      "Singh96",
+      1
+    ],
+    [
+      "surprisedatespot",
+      1
+    ]
+  ],
+  "years": [
+    [
+      "2016",
+      4
+    ],
+    [
+      "2017",
+      1278
+    ],
+    [
+      "2018",
+      1191
+    ],
+    [
+      "2019",
+      897
+    ],
+    [
+      "2020",
+      60
+    ],
+    [
+      "2021",
+      80
+    ],
+    [
+      "2022",
+      1851
+    ],
+    [
+      "2023",
+      82
+    ],
+    [
+      "2024",
+      304
+    ],
+    [
+      "2025",
+      358
+    ],
+    [
+      "2026",
+      92
+    ]
+  ],
+  "kinds": {
+    "node": 1154,
+    "way": 5043
+  },
+  "changesets": [
+    {
+      "id": 116603314,
+      "user": "Undearius",
+      "created_at": "2022-01-25T22:07:06Z",
+      "changes": 10000,
+      "tags": {
+        "comment": "Added some start_dates from 1976 through 2002 to buildings in Kanata South and Bridlewood",
+        "created_by": "JOSM/1.5 (18360 en)",
+        "source": "Ottawa imagery"
+      },
+      "sampled_elements": 903
+    },
+    {
+      "id": 116603321,
+      "user": "Undearius",
+      "created_at": "2022-01-25T22:07:34Z",
+      "changes": 6577,
+      "tags": {
+        "comment": "Added some start_dates from 1976 through 2002 to buildings in Kanata South and Bridlewood",
+        "created_by": "JOSM/1.5 (18360 en)",
+        "source": "Ottawa imagery"
+      },
+      "sampled_elements": 495
+    },
+    {
+      "id": 53223950,
+      "user": "Matthew Darwin",
+      "created_at": "2017-10-25T02:28:04Z",
+      "changes": 10000,
+      "tags": {
+        "comment": "Remove \"addr:city\"=\"City Of Ottawa\", \"addr:country\"=\"Canada\". Some addresses have a city/country, some don't... it is inconsistent.  Clean up the inconsitency by removing it everywhere",
+        "created_by": "JOSM/1.5 (12921 en)",
+        "source": "Local knowledge"
+      },
+      "sampled_elements": 295
+    },
+    {
+      "id": 53223823,
+      "user": "Matthew Darwin",
+      "created_at": "2017-10-25T02:05:44Z",
+      "changes": 10000,
+      "tags": {
+        "comment": "Remove \"addr:city\"=\"City Of Ottawa\", \"addr:country\"=\"Canada\". Some addresses have a city/country, some don't... it is inconsistent.  Clean up the inconsitency by removing it everywhere",
+        "created_by": "JOSM/1.5 (12921 en)",
+        "source": "Local knowledge"
+      },
+      "sampled_elements": 289
+    },
+    {
+      "id": 54998323,
+      "user": "zzptichka",
+      "created_at": "2017-12-29T01:52:03Z",
+      "changes": 1573,
+      "tags": {
+        "comment": "#ottawa-terracing - http://tasks.osmcanada.ca/project/100",
+        "created_by": "JOSM/1.5 (13170 en)",
+        "source": "Bing"
+      },
+      "sampled_elements": 248
+    },
+    {
+      "id": 62141011,
+      "user": "Matthew Darwin",
+      "created_at": "2018-08-30T13:49:29Z",
+      "changes": 1490,
+      "tags": {
+        "comment": "Remove old fixme",
+        "created_by": "JOSM/1.5 (14178 en)",
+        "source": "Local knowledge"
+      },
+      "sampled_elements": 247
+    },
+    {
+      "id": 70128605,
+      "user": "DannyMcD",
+      "created_at": "2019-05-11T03:39:18Z",
+      "changes": 1852,
+      "tags": {
+        "comment": "new houses in south Orleans",
+        "created_by": "JOSM/1.5 (15031 en_CA)",
+        "source": "Bing"
+      },
+      "sampled_elements": 221
+    },
+    {
+      "id": 147039477,
+      "user": "DannyMcD",
+      "created_at": "2024-02-04T02:26:48Z",
+      "changes": 212,
+      "tags": {
+        "comment": "Orleans addresses and roads",
+        "created_by": "JOSM/1.5 (18940 en)",
+        "source": "City of Ottawa"
+      },
+      "sampled_elements": 197
+    }
+  ],
+  "conventions": {
+    "sampled": 6197,
+    "keys": [
+      [
+        "addr:housenumber",
+        6197
+      ],
+      [
+        "addr:street",
+        6197
+      ],
+      [
+        "building",
+        4988
+      ],
+      [
+        "source",
+        3934
+      ],
+      [
+        "start_date",
+        1406
+      ],
+      [
+        "building:levels",
+        670
+      ],
+      [
+        "name",
+        612
+      ],
+      [
+        "mapillary",
+        362
+      ],
+      [
+        "survey:date",
+        270
+      ],
+      [
+        "amenity",
+        243
+      ],
+      [
+        "addr:postcode",
+        186
+      ],
+      [
+        "website",
+        163
+      ],
+      [
+        "shop",
+        163
+      ],
+      [
+        "opening_hours",
+        161
+      ],
+      [
+        "phone",
+        135
+      ],
+      [
+        "addr:unit",
+        119
+      ],
+      [
+        "operator",
+        108
+      ],
+      [
+        "cuisine",
+        108
+      ],
+      [
+        "brand",
+        85
+      ],
+      [
+        "brand:wikidata",
+        83
+      ],
+      [
+        "office",
+        83
+      ],
+      [
+        "check_date",
+        82
+      ],
+      [
+        "addr:city",
+        60
+      ],
+      [
+        "brand:wikipedia",
+        59
+      ],
+      [
+        "name:fr",
+        58
+      ]
+    ],
+    "values": {
+      "addr:city": [
+        [
+          "Ottawa",
+          38
+        ],
+        [
+          "Orleans",
+          17
+        ],
+        [
+          "Kanata",
+          4
+        ],
+        [
+          "Orl\u00e9ans",
+          1
+        ]
+      ],
+      "addr:housename": [
+        [
+          "East Memorial Building",
+          1
+        ],
+        [
+          "St. Andrew's Tower",
+          1
+        ],
+        [
+          "Narono Building",
+          1
+        ],
+        [
+          "Marion Dewar Place",
+          1
+        ],
+        [
+          "The Acadian Apartments",
+          1
+        ],
+        [
+          "SOHO Lisgar",
+          1
+        ],
+        [
+          "Constitution Square Tower III",
+          1
+        ]
+      ],
+      "addr:housenumber": [
+        [
+          "8",
+          29
+        ],
+        [
+          "10",
+          29
+        ],
+        [
+          "3",
+          27
+        ],
+        [
+          "4",
+          27
+        ],
+        [
+          "6",
+          27
+        ],
+        [
+          "5",
+          26
+        ],
+        [
+          "12",
+          25
+        ],
+        [
+          "11",
+          25
+        ]
+      ],
+      "addr:postcode": [
+        [
+          "K4A 0X4",
+          14
+        ],
+        [
+          "K1R 5B5",
+          13
+        ],
+        [
+          "K1R 7S8",
+          7
+        ],
+        [
+          "K1R 5H9",
+          7
+        ],
+        [
+          "K1R 6E5",
+          5
+        ],
+        [
+          "K2P 1X1",
+          4
+        ],
+        [
+          "K1P 5N5",
+          3
+        ],
+        [
+          "K2P 1X2",
+          3
+        ]
+      ],
+      "addr:province": [
+        [
+          "Ontario",
+          33
+        ],
+        [
+          "ON",
+          10
+        ]
+      ],
+      "addr:street": [
+        [
+          "Somerset Street West",
+          161
+        ],
+        [
+          "Gilmour Street",
+          145
+        ],
+        [
+          "Bank Street",
+          141
+        ],
+        [
+          "MacLaren Street",
+          140
+        ],
+        [
+          "Lisgar Street",
+          130
+        ],
+        [
+          "Gladstone Avenue",
+          128
+        ],
+        [
+          "Hepatica Way",
+          127
+        ],
+        [
+          "McClintock Way",
+          125
+        ]
+      ],
+      "addr:street:fr": [
+        [
+          "Rue Albert",
+          2
+        ],
+        [
+          "Rue Queen",
+          1
+        ]
+      ],
+      "addr:unit": [
+        [
+          "9",
+          4
+        ],
+        [
+          "7",
+          4
+        ],
+        [
+          "5",
+          4
+        ],
+        [
+          "23",
+          3
+        ],
+        [
+          "21",
+          3
+        ],
+        [
+          "19",
+          3
+        ],
+        [
+          "17",
+          3
+        ],
+        [
+          "15",
+          3
+        ]
+      ],
+      "building": [
+        [
+          "detached",
+          1449
+        ],
+        [
+          "terrace",
+          1437
+        ],
+        [
+          "yes",
+          1365
+        ],
+        [
+          "house",
+          457
+        ],
+        [
+          "apartments",
+          129
+        ],
+        [
+          "commercial",
+          63
+        ],
+        [
+          "retail",
+          25
+        ],
+        [
+          "residential",
+          19
+        ]
+      ],
+      "source": [
+        [
+          "City of Ottawa",
+          3883
+        ],
+        [
+          "Bing",
+          18
+        ],
+        [
+          "OCDSB",
+          16
+        ],
+        [
+          "CanVec 6.0 - NRCan",
+          5
+        ],
+        [
+          "NRCan-CanVec-7.0;CanVec 6.0 - NRCan",
+          3
+        ],
+        [
+          "NRCan-CanVec-7.0",
+          3
+        ],
+        [
+          "OCSB",
+          2
+        ],
+        [
+          "survey",
+          1
+        ]
+      ]
+    },
+    "addr_combos": [
+      [
+        "addr:housenumber+addr:street",
+        5907
+      ],
+      [
+        "addr:housenumber+addr:postcode+addr:street",
+        116
+      ],
+      [
+        "addr:housenumber+addr:street+addr:unit",
+        95
+      ],
+      [
+        "addr:city+addr:housenumber+addr:postcode+addr:province+addr:street",
+        28
+      ],
+      [
+        "addr:city+addr:housenumber+addr:postcode+addr:street",
+        14
+      ],
+      [
+        "addr:city+addr:housenumber+addr:postcode+addr:province+addr:street+addr:unit",
+        12
+      ],
+      [
+        "addr:housenumber+addr:postcode+addr:street+addr:unit",
+        9
+      ],
+      [
+        "addr:housename+addr:housenumber+addr:postcode+addr:street",
+        4
+      ]
+    ]
+  },
+  "wiki": {
+    "Canada:Ontario:Ottawa": {
+      "exists": true,
+      "chars": 20,
+      "mentions_address": 0,
+      "mentions_import": 0,
+      "head": "#REDIRECT [[Ottawa]]"
+    },
+    "Ottawa": {
+      "exists": true,
+      "chars": 28742,
+      "mentions_address": 3,
+      "mentions_import": 8,
+      "head": "{{Template:Place\n| name         = Ottawa\n| type         = City\n| area         = Canada\n| subarea      = Ontario\n| lat          = 45.41\n| long         = -75.71\n| zoom         = 10\n| image        =\n| map          =\n| width        = \n| height       = \n| layer        = \n| latlon       = \n| sortkey      = Ottawa\n| list         = https://lists.openstreetmap.org/listinfo/talk-ca\n| archive      = https://"
+    }
+  },
+  "recent_changesets": [
+    {
+      "id": "187550515",
+      "user": "jon_snow",
+      "created_at": "2026-08-16T18:21:00Z",
+      "changes": 1,
+      "comment": "Specify drinking water types",
+      "source": "survey",
+      "import": "",
+      "import_page": ""
+    },
+    {
+      "id": "187550338",
+      "user": "jon_snow",
+      "created_at": "2026-08-16T18:16:32Z",
+      "changes": 1,
+      "comment": "Specify whether places take fees to visit",
+      "source": "survey",
+      "import": "",
+      "import_page": ""
+    },
+    {
+      "id": "187550332",
+      "user": "jon_snow",
+      "created_at": "2026-08-16T18:16:23Z",
+      "changes": 2,
+      "comment": "Specify path surfaces",
+      "source": "survey",
+      "import": "",
+      "import_page": ""
+    },
+    {
+      "id": "187550329",
+      "user": "jon_snow",
+      "created_at": "2026-08-16T18:16:19Z",
+      "changes": 1,
+      "comment": "Specify bicycle parking capacities",
+      "source": "survey",
+      "import": "",
+      "import_page": ""
+    },
+    {
+      "id": "187550321",
+      "user": "jon_snow",
+      "created_at": "2026-08-16T18:16:13Z",
+      "changes": 1,
+      "comment": "Specify bicycle parkings covers",
+      "source": "survey",
+      "import": "",
+      "import_page": ""
+    },
+    {
+      "id": "187550284",
+      "user": "jon_snow",
+      "created_at": "2026-08-16T18:15:21Z",
+      "changes": 1,
+      "comment": "Specify board types",
+      "source": "survey",
+      "import": "",
+      "import_page": ""
+    },
+    {
+      "id": "187548999",
+      "user": "jon_snow",
+      "created_at": "2026-08-16T17:54:59Z",
+      "changes": 2,
+      "comment": "Specify whether roads have sidewalks",
+      "source": "survey",
+      "import": "",
+      "import_page": ""
+    },
+    {
+      "id": "187548258",
+      "user": "jon_snow",
+      "created_at": "2026-08-16T17:37:32Z",
+      "changes": 4,
+      "comment": "Specify whether there are cycleways",
+      "source": "survey",
+      "import": "",
+      "import_page": ""
+    },
+    {
+      "id": "187547926",
+      "user": "jon_snow",
+      "created_at": "2026-08-16T17:30:18Z",
+      "changes": 4,
+      "comment": "Specify wheelchair accessibility of toilets",
+      "source": "survey",
+      "import": "",
+      "import_page": ""
+    },
+    {
+      "id": "187547919",
+      "user": "jon_snow",
+      "created_at": "2026-08-16T17:30:10Z",
+      "changes": 8,
+      "comment": "Survey if places still exist",
+      "source": "survey",
+      "import": "",
+      "import_page": ""
+    },
+    {
+      "id": "187547531",
+      "user": "jon_snow",
+      "created_at": "2026-08-16T17:21:26Z",
+      "changes": 2,
+      "comment": "Specify whether parking requires a fee",
+      "source": "survey",
+      "import": "",
+      "import_page": ""
+    },
+    {
+      "id": "187547516",
+      "user": "jon_snow",
+      "created_at": "2026-08-16T17:21:17Z",
+      "changes": 3,
+      "comment": "Specify parking access",
+      "source": "survey",
+      "import": "",
+      "import_page": ""
+    },
+    {
+      "id": "187547488",
+      "user": "jon_snow",
+      "created_at": "2026-08-16T17:20:58Z",
+      "changes": 11,
+      "comment": "Specify road surfaces",
+      "source": "survey",
+      "import": "",
+      "import_page": ""
+    },
+    {
+      "id": "187540447",
+      "user": "jon_snow",
+      "created_at": "2026-08-16T14:57:44Z",
+      "changes": 1,
+      "comment": "Specify fire hydrant positions",
+      "source": "survey",
+      "import": "",
+      "import_page": ""
+    },
+    {
+      "id": "187540439",
+      "user": "jon_snow",
+      "created_at": "2026-08-16T14:57:41Z",
+      "changes": 1,
+      "comment": "Specify fire hydrant types",
+      "source": "survey",
+      "import": "",
+      "import_page": ""
+    },
+    {
+      "id": "187540258",
+      "user": "jon_snow",
+      "created_at": "2026-08-16T14:54:29Z",
+      "changes": 3,
+      "comment": "Specify path surfaces",
+      "source": "survey",
+      "import": "",
+      "import_page": ""
+    },
+    {
+      "id": "187538890",
+      "user": "rollercoasting",
+      "created_at": "2026-08-16T14:25:11Z",
+      "changes": 24,
+      "comment": "Add comprehensive Japanese localization tags (name:ja, ja-Latn, ja-Kana, ja-Hira) for 12 countries",
+      "source": "transliteration of existing name:ja; ALA-LC Romanization",
+      "import": "",
+      "import_page": ""
+    },
+    {
+      "id": "187532621",
+      "user": "Ethan Grobin",
+      "created_at": "2026-08-16T12:21:53Z",
+      "changes": 1003,
+      "comment": "MANUAL Cleanup of unsquared four_square in US+CA partially, not all done now",
+      "source": "Esri World Imagery; Bing",
+      "import": "",
+      "import_page": ""
+    },
+    {
+      "id": "187516565",
+      "user": "sammuell",
+      "created_at": "2026-08-16T04:48:06Z",
+      "changes": 15,
+      "comment": "remove blank ways that were accidentally uploaded",
+      "source": "N/A",
+      "import": "",
+      "import_page": ""
+    },
+    {
+      "id": "187515566",
+      "user": "DannyMcD",
+      "created_at": "2026-08-16T03:29:50Z",
+      "changes": 111,
+      "comment": "Gatineau stop signs and crossings",
+      "source": "aerial imagery",
+      "import": "",
+      "import_page": ""
+    },
+    {
+      "id": "187515451",
+      "user": "confusedbuffalo-bot",
+      "created_at": "2026-08-16T03:25:50Z",
+      "changes": 3,
+      "comment": "Ontario (Canada): Automatically fix phone number issues: missing country code, extra punctuation",
+      "source": "",
+      "import": "",
+      "import_page": ""
+    },
+    {
+      "id": "187515427",
+      "user": "DannyMcD",
+      "created_at": "2026-08-16T03:24:47Z",
+      "changes": 153,
+      "comment": "Gatineau stop signs and crossings",
+      "source": "aerial imagery",
+      "import": "",
+      "import_page": ""
+    },
+    {
+      "id": "187515321",
+      "user": "PinRPG",
+      "created_at": "2026-08-16T03:16:40Z",
+      "changes": 1,
+      "comment": "Removed, per note Note 5427144",
+      "source": "",
+      "import": "",
+      "import_page": ""
+    },
+    {
+      "id": "187515275",
+      "user": "DannyMcD",
+      "created_at": "2026-08-16T03:11:19Z",
+      "changes": 285,
+      "comment": "Gatineau stop signs and crossings",
+      "source": "aerial imagery",
+      "import": "",
+      "import_page": ""
+    },
+    {
+      "id": "187515204",
+      "user": "DannyMcD",
+      "created_at": "2026-08-16T03:05:45Z",
+      "changes": 80,
+      "comment": "Gatineau stop signs and crossings",
+      "source": "aerial imagery",
+      "import": "",
+      "import_page": ""
+    },
+    {
+      "id": "187515126",
+      "user": "DannyMcD",
+      "created_at": "2026-08-16T03:01:42Z",
+      "changes": 98,
+      "comment": "Gatineau stop signs and crossings",
+      "source": "aerial imagery",
+      "import": "",
+      "import_page": ""
+    },
+    {
+      "id": "187513611",
+      "user": "jon_snow",
+      "created_at": "2026-08-16T01:23:08Z",
+      "changes": 11,
+      "comment": "updates",
+      "source": "",
+      "import": "",
+      "import_page": ""
+    },
+    {
+      "id": "187513534",
+      "user": "jon_snow",
+      "created_at": "2026-08-16T01:18:56Z",
+      "changes": 24,
+      "comment": "updates",
+      "source": "",
+      "import": "",
+      "import_page": ""
+    },
+    {
+      "id": "187513371",
+      "user": "jon_snow",
+      "created_at": "2026-08-16T01:07:23Z",
+      "changes": 40,
+      "comment": "updates",
+      "source": "",
+      "import": "",
+      "import_page": ""
+    },
+    {
+      "id": "187513306",
+      "user": "PistachioGuy",
+      "created_at": "2026-08-16T01:03:48Z",
+      "changes": 1,
+      "comment": "Created a restaurant",
+      "source": "",
+      "import": "",
+      "import_page": ""
+    },
+    {
+      "id": "187512566",
+      "user": "jon_snow",
+      "created_at": "2026-08-16T00:19:43Z",
+      "changes": 4,
+      "comment": "Survey whether benches have backrests",
+      "source": "survey",
+      "import": "",
+      "import_page": ""
+    },
+    {
+      "id": "187512560",
+      "user": "jon_snow",
+      "created_at": "2026-08-16T00:19:06Z",
+      "changes": 3,
+      "comment": "Specify fire hydrant positions",
+      "source": "survey",
+      "import": "",
+      "import_page": ""
+    },
+    {
+      "id": "187512558",
+      "user": "jon_snow",
+      "created_at": "2026-08-16T00:18:53Z",
+      "changes": 3,
+      "comment": "Specify fire hydrant types",
+      "source": "survey",
+      "import": "",
+      "import_page": ""
+    },
+    {
+      "id": "187512552",
+      "user": "jon_snow",
+      "created_at": "2026-08-16T00:18:34Z",
+      "changes": 1,
+      "comment": "Specify whether there are cycleways",
+      "source": "survey",
+      "import": "",
+      "import_page": ""
+    },
+    {
+      "id": "187512543",
+      "user": "jon_snow",
+      "created_at": "2026-08-16T00:17:47Z",
+      "changes": 6,
+      "comment": "Specify path surfaces",
+      "source": "survey",
+      "import": "",
+      "import_page": ""
+    },
+    {
+      "id": "187512449",
+      "user": "sammuell",
+      "created_at": "2026-08-16T00:10:53Z",
+      "changes": 17,
+      "comment": "delink incorrectly linked roads, this was causing routing engines to give directions involving illegal border crossing",
+      "source": "Esri World Imagery",
+      "import": "",
+      "import_page": ""
+    },
+    {
+      "id": "187512422",
+      "user": "wordbird",
+      "created_at": "2026-08-16T00:08:56Z",
+      "changes": 194,
+      "comment": "Ottawa River Canoe Club",
+      "source": "local knowledge;aerial imagery",
+      "import": "",
+      "import_page": ""
+    },
+    {
+      "id": "187512203",
+      "user": "Thomasje",
+      "created_at": "2026-08-15T23:50:40Z",
+      "changes": 16,
+      "comment": "Dutch localizations timezones",
+      "source": "",
+      "import": "",
+      "import_page": ""
+    },
+    {
+      "id": "187512149",
+      "user": "wordbird",
+      "created_at": "2026-08-15T23:46:24Z",
+      "changes": 1,
+      "comment": "camp detaila",
+      "source": "local knowledge",
+      "import": "",
+      "import_page": ""
+    },
+    {
+      "id": "187512124",
+      "user": "wordbird",
+      "created_at": "2026-08-15T23:44:04Z",
+      "changes": 13,
+      "comment": "parking lot detail",
+      "source": "aerial imagery",
+      "import": "",
+      "import_page": ""
+    },
+    {
+      "id": "187511985",
+      "user": "wordbird",
+      "created_at": "2026-08-15T23:37:32Z",
+      "changes": 1,
+      "comment": "land cover detail",
+      "source": "",
+      "import": "",
+      "import_page": ""
+    },
+    {
+      "id": "187508436",
+      "user": "PinRPG",
+      "created_at": "2026-08-15T21:03:16Z",
+      "changes": 1,
+      "comment": "Shop closed, per note 5383873",
+      "source": "",
+      "import": "",
+      "import_page": ""
+    },
+    {
+      "id": "187503026",
+      "user": "Kakurady",
+      "created_at": "2026-08-15T18:43:36Z",
+      "changes": 3,
+      "comment": "Ottawa Conference & Event Centre parking & EV charging",
+      "source": "survey;aerial imagery",
+      "import": "",
+      "import_page": ""
+    },
+    {
+      "id": "187499833",
+      "user": "Johnwhelan",
+      "created_at": "2026-08-15T17:26:21Z",
+      "changes": 20,
+      "comment": "added picnic tables and removed path",
+      "source": "local knowledege",
+      "import": "",
+      "import_page": ""
+    },
+    {
+      "id": "187497957",
+      "user": "jazzjazzjazzjazzjazzjazz",
+      "created_at": "2026-08-15T16:46:25Z",
+      "changes": 2,
+      "comment": "Specify whether there are cycleways",
+      "source": "survey",
+      "import": "",
+      "import_page": ""
+    },
+    {
+      "id": "187497603",
+      "user": "jazzjazzjazzjazzjazzjazz",
+      "created_at": "2026-08-15T16:39:51Z",
+      "changes": 1,
+      "comment": "Survey opening hours",
+      "source": "survey",
+      "import": "",
+      "import_page": ""
+    },
+    {
+      "id": "187497217",
+      "user": "TheRadScientist",
+      "created_at": "2026-08-15T16:31:57Z",
+      "changes": 1,
+      "comment": "Edit payment methods",
+      "source": "",
+      "import": "",
+      "import_page": ""
+    },
+    {
+      "id": "187490256",
+      "user": "KevinMapsThings",
+      "created_at": "2026-08-15T13:59:31Z",
+      "changes": 2,
+      "comment": "Convert Sandy Pond - Quebec power route to circuit relation",
+      "source": "",
+      "import": "",
+      "import_page": ""
+    },
+    {
+      "id": "187489560",
+      "user": "Kakurady",
+      "created_at": "2026-08-15T13:45:49Z",
+      "changes": 1,
+      "comment": "Saturday off",
+      "source": "survey",
+      "import": "",
+      "import_page": ""
+    },
+    {
+      "id": "187469878",
+      "user": "What Zit Tooya",
+      "created_at": "2026-08-15T03:20:22Z",
+      "changes": 1,
+      "comment": "Replaced outdated point for a Vietnamese restaurant which has since been replaced by a Thai restaurant.",
+      "source": "local knowledge",
+      "import": "",
+      "import_page": ""
+    },
+    {
+      "id": "187469268",
+      "user": "DannyMcD",
+      "created_at": "2026-08-15T02:32:39Z",
+      "changes": 133,
+      "comment": "Gatineau stop signs and crossings",
+      "source": "aerial imagery",
+      "import": "",
+      "import_page": ""
+    },
+    {
+      "id": "187469213",
+      "user": "DannyMcD",
+      "created_at": "2026-08-15T02:28:54Z",
+      "changes": 69,
+      "comment": "Gatineau stop signs and crossings",
+      "source": "aerial imagery",
+      "import": "",
+      "import_page": ""
+    },
+    {
+      "id": "187469149",
+      "user": "DannyMcD",
+      "created_at": "2026-08-15T02:25:03Z",
+      "changes": 53,
+      "comment": "Gatineau stop signs and crossings",
+      "source": "aerial imagery",
+      "import": "",
+      "import_page": ""
+    },
+    {
+      "id": "187469105",
+      "user": "DannyMcD",
+      "created_at": "2026-08-15T02:21:13Z",
+      "changes": 70,
+      "comment": "Gatineau stop signs and crossings",
+      "source": "aerial imagery",
+      "import": "",
+      "import_page": ""
+    },
+    {
+      "id": "187469054",
+      "user": "DannyMcD",
+      "created_at": "2026-08-15T02:17:46Z",
+      "changes": 68,
+      "comment": "Gatineau stop signs and crossings",
+      "source": "aerial imagery",
+      "import": "",
+      "import_page": ""
+    },
+    {
+      "id": "187461377",
+      "user": "OttawaTek",
+      "created_at": "2026-08-14T19:57:58Z",
+      "changes": 2,
+      "comment": "Tosca has permanently closed and moved out.",
+      "source": "local knowledge",
+      "import": "",
+      "import_page": ""
+    },
+    {
+      "id": "187455476",
+      "user": "Sebastien April",
+      "created_at": "2026-08-14T17:28:58Z",
+      "changes": 3,
+      "comment": "Trail removed. Has been renaturalized.",
+      "source": "",
+      "import": "",
+      "import_page": ""
+    },
+    {
+      "id": "187449091",
+      "user": "Hensor",
+      "created_at": "2026-08-14T15:20:38Z",
+      "changes": 23,
+      "comment": "puse un edificio en alaska",
+      "source": "",
+      "import": "",
+      "import_page": ""
+    },
+    {
+      "id": "187438354",
+      "user": "user_5589",
+      "created_at": "2026-08-14T11:58:45Z",
+      "changes": 1,
+      "comment": "Fixed with Osmose",
+      "source": "Osmose",
+      "import": "",
+      "import_page": ""
+    },
+    {
+      "id": "187436570",
+      "user": "alokchauhan_Lyft",
+      "created_at": "2026-08-14T11:24:22Z",
+      "changes": 6,
+      "comment": "Added missing roads according to Lyft-owned aerial imagery.",
+      "source": "",
+      "import": "",
+      "import_page": ""
+    },
+    {
+      "id": "187436117",
+      "user": "sarya_Lyft",
+      "created_at": "2026-08-14T11:13:37Z",
+      "changes": 10,
+      "comment": "Added missing roads according to Esri world imagery.",
+      "source": "streetlevel imagery;streetside",
+      "import": "",
+      "import_page": ""
+    },
+    {
+      "id": "187430289",
+      "user": "woodpeck",
+      "created_at": "2026-08-14T09:11:47Z",
+      "changes": 190,
+      "comment": "delete historic=battlefield added by Jobigutenburg, see https://www.openstreetmap.org/changeset/179566483",
+      "source": "",
+      "import": "",
+      "import_page": ""
+    },
+    {
+      "id": "187428901",
+      "user": "silverwoodsgolf",
+      "created_at": "2026-08-14T08:42:28Z",
+      "changes": 1,
+      "comment": "update",
+      "source": "",
+      "import": "",
+      "import_page": ""
+    },
+    {
+      "id": "187427176",
+      "user": "bhartinegi_lyft",
+      "created_at": "2026-08-14T08:06:21Z",
+      "changes": 7,
+      "comment": "Added missing roads according to Bing aerial imagery",
+      "source": "",
+      "import": "",
+      "import_page": ""
+    },
+    {
+      "id": "187426922",
+      "user": "cyril31",
+      "created_at": "2026-08-14T08:01:03Z",
+      "changes": 6,
+      "comment": "Mise \u00e0 jour",
+      "source": "",
+      "import": "",
+      "import_page": ""
+    },
+    {
+      "id": "187426818",
+      "user": "cyril31",
+      "created_at": "2026-08-14T07:58:03Z",
+      "changes": 1,
+      "comment": "Ajout distillerie",
+      "source": "survey",
+      "import": "",
+      "import_page": ""
+    },
+    {
+      "id": "187426520",
+      "user": "cyril31",
+      "created_at": "2026-08-14T07:51:35Z",
+      "changes": 14,
+      "comment": "Modif",
+      "source": "",
+      "import": "",
+      "import_page": ""
+    },
+    {
+      "id": "187423545",
+      "user": "rollercoasting",
+      "created_at": "2026-08-14T06:23:23Z",
+      "changes": 16,
+      "comment": "Add comprehensive Japanese localization (name:ja, ja-Latn, ja-Kana, ja-Hira) and alt_names to major continent and ocean nodes",
+      "source": "standard geographic names; ALA-LC Romanization of Japanese",
+      "import": "",
+      "import_page": ""
+    },
+    {
+      "id": "187421159",
+      "user": "sarya_Lyft",
+      "created_at": "2026-08-14T04:34:09Z",
+      "changes": 17,
+      "comment": "Added missing roads according to Lyft-owned aerial imagery.",
+      "source": "",
+      "import": "",
+      "import_page": ""
+    },
+    {
+      "id": "187420680",
+      "user": "PinRPG",
+      "created_at": "2026-08-14T04:10:07Z",
+      "changes": 1,
+      "comment": "Specify whether public transport stops have shelters",
+      "source": "survey",
+      "import": "",
+      "import_page": ""
+    },
+    {
+      "id": "187420679",
+      "user": "PinRPG",
+      "created_at": "2026-08-14T04:10:07Z",
+      "changes": 1,
+      "comment": "Specify wheelchair accessibility of toilets",
+      "source": "survey",
+      "import": "",
+      "import_page": ""
+    },
+    {
+      "id": "187420678",
+      "user": "PinRPG",
+      "created_at": "2026-08-14T04:10:06Z",
+      "changes": 1,
+      "comment": "Survey opening hours",
+      "source": "survey",
+      "import": "",
+      "import_page": ""
+    },
+    {
+      "id": "187420677",
+      "user": "PinRPG",
+      "created_at": "2026-08-14T04:10:05Z",
+      "changes": 2,
+      "comment": "Specify path surfaces",
+      "source": "survey",
+      "import": "",
+      "import_page": ""
+    },
+    {
+      "id": "187420676",
+      "user": "PinRPG",
+      "created_at": "2026-08-14T04:10:05Z",
+      "changes": 3,
+      "comment": "Survey if places still exist",
+      "source": "survey",
+      "import": "",
+      "import_page": ""
+    },
+    {
+      "id": "187420675",
+      "user": "PinRPG",
+      "created_at": "2026-08-14T04:10:04Z",
+      "changes": 1,
+      "comment": "Add whether public transport stops are lit",
+      "source": "survey",
+      "import": "",
+      "import_page": ""
+    },
+    {
+      "id": "187420673",
+      "user": "PinRPG",
+      "created_at": "2026-08-14T04:10:04Z",
+      "changes": 1,
+      "comment": "Specify whether public transport stops have tactile paving",
+      "source": "survey",
+      "import": "",
+      "import_page": ""
+    },
+    {
+      "id": "187420672",
+      "user": "PinRPG",
+      "created_at": "2026-08-14T04:10:04Z",
+      "changes": 1,
+      "comment": "Specify whether public transport stops have bins",
+      "source": "survey",
+      "import": "",
+      "import_page": ""
+    },
+    {
+      "id": "187419230",
+      "user": "DannyMcD",
+      "created_at": "2026-08-14T02:48:20Z",
+      "changes": 41,
+      "comment": "Gatineau stop signs and crossings",
+      "source": "aerial imagery",
+      "import": "",
+      "import_page": ""
+    },
+    {
+      "id": "187419191",
+      "user": "DannyMcD",
+      "created_at": "2026-08-14T02:45:43Z",
+      "changes": 73,
+      "comment": "Gatineau stop signs and crossings",
+      "source": "aerial imagery",
+      "import": "",
+      "import_page": ""
+    },
+    {
+      "id": "187419107",
+      "user": "DannyMcD",
+      "created_at": "2026-08-14T02:39:15Z",
+      "changes": 75,
+      "comment": "Gatineau stop signs and crossings",
+      "source": "aerial imagery",
+      "import": "",
+      "import_page": ""
+    },
+    {
+      "id": "187419053",
+      "user": "DannyMcD",
+      "created_at": "2026-08-14T02:34:43Z",
+      "changes": 149,
+      "comment": "Gatineau stop signs and crossings",
+      "source": "aerial imagery",
+      "import": "",
+      "import_page": ""
+    },
+    {
+      "id": "187418769",
+      "user": "wordbird",
+      "created_at": "2026-08-14T02:05:24Z",
+      "changes": 4,
+      "comment": "road detail",
+      "source": "aerial imagery",
+      "import": "",
+      "import_page": ""
+    },
+    {
+      "id": "187418763",
+      "user": "algot",
+      "created_at": "2026-08-14T02:05:09Z",
+      "changes": 1,
+      "comment": "Add roundabout",
+      "source": "",
+      "import": "",
+      "import_page": ""
+    },
+    {
+      "id": "187418437",
+      "user": "wordbird",
+      "created_at": "2026-08-14T01:48:15Z",
+      "changes": 2,
+      "comment": "road detail",
+      "source": "",
+      "import": "",
+      "import_page": ""
+    },
+    {
+      "id": "187418239",
+      "user": "wordbird",
+      "created_at": "2026-08-14T01:37:46Z",
+      "changes": 38,
+      "comment": "land cover detail",
+      "source": "aerial imagery",
+      "import": "",
+      "import_page": ""
+    },
+    {
+      "id": "187418029",
+      "user": "wordbird",
+      "created_at": "2026-08-14T01:26:43Z",
+      "changes": 48,
+      "comment": "Gatineau details",
+      "source": "aerial imagery",
+      "import": "",
+      "import_page": ""
+    },
+    {
+      "id": "187417642",
+      "user": "wordbird",
+      "created_at": "2026-08-14T01:06:06Z",
+      "changes": 151,
+      "comment": "Gatineau details",
+      "source": "aerial imagery;local knowledge",
+      "import": "",
+      "import_page": ""
+    },
+    {
+      "id": "187416955",
+      "user": "jon_snow",
+      "created_at": "2026-08-14T00:24:51Z",
+      "changes": 1,
+      "comment": "Specify whether there are cycleways",
+      "source": "survey",
+      "import": "",
+      "import_page": ""
+    },
+    {
+      "id": "187416359",
+      "user": "wordbird",
+      "created_at": "2026-08-13T23:47:11Z",
+      "changes": 3,
+      "comment": "Gatineau details",
+      "source": "aerial imagery",
+      "import": "",
+      "import_page": ""
+    },
+    {
+      "id": "187416272",
+      "user": "wordbird",
+      "created_at": "2026-08-13T23:40:41Z",
+      "changes": 37,
+      "comment": "Gatineau details",
+      "source": "local knowledge;aerial imagery",
+      "import": "",
+      "import_page": ""
+    },
+    {
+      "id": "187416071",
+      "user": "wordbird",
+      "created_at": "2026-08-13T23:26:02Z",
+      "changes": 99,
+      "comment": "Gatineau details",
+      "source": "aerial imagery;local knowledge",
+      "import": "",
+      "import_page": ""
+    },
+    {
+      "id": "187415569",
+      "user": "wordbird",
+      "created_at": "2026-08-13T23:05:31Z",
+      "changes": 730,
+      "comment": "Gatineau details",
+      "source": "aerial imagery;local knowledge",
+      "import": "",
+      "import_page": ""
+    },
+    {
+      "id": "187413560",
+      "user": "Lucet_",
+      "created_at": "2026-08-13T21:38:57Z",
+      "changes": 30,
+      "comment": "minor changes",
+      "source": "",
+      "import": "",
+      "import_page": ""
+    },
+    {
+      "id": "187410121",
+      "user": "wordbird",
+      "created_at": "2026-08-13T19:58:54Z",
+      "changes": 69,
+      "comment": "land cover detail",
+      "source": "aerial imagery;local knowledge",
+      "import": "",
+      "import_page": ""
+    },
+    {
+      "id": "187409990",
+      "user": "marvin3",
+      "created_at": "2026-08-13T19:54:58Z",
+      "changes": 12,
+      "comment": "Spelling of Output-Power corrected.",
+      "source": "",
+      "import": "",
+      "import_page": ""
+    },
+    {
+      "id": "187407401",
+      "user": "wordbird",
+      "created_at": "2026-08-13T18:49:33Z",
+      "changes": 14,
+      "comment": "fences",
+      "source": "aerial imagery;local knowledge",
+      "import": "",
+      "import_page": ""
+    },
+    {
+      "id": "187407000",
+      "user": "wordbird",
+      "created_at": "2026-08-13T18:42:04Z",
+      "changes": 58,
+      "comment": "fences, gates, walls",
+      "source": "aerial imagery;local knowledge",
+      "import": "",
+      "import_page": ""
+    },
+    {
+      "id": "187405398",
+      "user": "wordbird",
+      "created_at": "2026-08-13T18:04:08Z",
+      "changes": 1,
+      "comment": "pumphouse",
+      "source": "",
+      "import": "",
+      "import_page": ""
+    },
+    {
+      "id": "187405359",
+      "user": "wordbird",
+      "created_at": "2026-08-13T18:03:29Z",
+      "changes": 22,
+      "comment": "pumphouse",
+      "source": "aerial imagery;local knowledge",
+      "import": "",
+      "import_page": ""
+    },
+    {
+      "id": "187404777",
+      "user": "wordbird",
+      "created_at": "2026-08-13T17:50:30Z",
+      "changes": 17,
+      "comment": "land cover detail",
+      "source": "survey",
+      "import": "",
+      "import_page": ""
+    }
+  ]
+}

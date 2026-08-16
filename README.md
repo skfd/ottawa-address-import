@@ -33,6 +33,17 @@ whose letter belongs in the housenumber (a decision owed before any
 import); ADDRTYPE splits MAIN/SUBORD 73/27; 10% units collapsed to civic;
 tiles subdivide the 116 ONS Gen 3 neighbourhoods at 100.00% coverage.
 
+Entry state probed 2026-08-16 (`onboarding/entry-state-2026-08-16.json`):
+**brownfield-active-community** — `source=City of Ottawa` on 3,883 sampled
+elements: the community has mapped addresses from the city's own data by
+hand for years, through the osmcanada task manager (`#ottawa-terracing`,
+tasks.osmcanada.ca/project/100) and individual sustained effort — DannyMcD
+(Orléans addresses from city data, 2024, still active), Undearius (Kanata),
+zzptichka, Matthew Darwin (convention cleanups). 81% of sampled elements
+are ways; every year 2017–2026 shows real activity. The observer/QA
+consumer is confirmed; anything visible goes through the Ottawa community
+first.
+
 Before anything visible: the etiquette conversation above, then (only if an
 import is ever agreed) a wiki proposal per the
 [OSM Import Guidelines](https://wiki.openstreetmap.org/wiki/Import/Guidelines).
