@@ -1,0 +1,95 @@
+[city]
+slug = "ottawa"
+name = "Ottawa"
+# ONS Gen 3 neighbourhoods (Ottawa Neighbourhood Study — the city's standard
+# fabric): 116 polygons, all names unique, point-tested 2026-08-16 at
+# 100.00% of snapshot-43 addresses (2 orphans). ONS_Region rides along for
+# context. Ward layers on the portal are all historical vintages —
+# neighbourhoods are the operational fabric here.
+neighbourhoods_url = "https://services.arcgis.com/G6F8XLCl5KtAlZ2G/arcgis/rest/services/GEN3_OTT_1_3_3/FeatureServer/0/query?where=1%3D1&outFields=ONS_Name,ONS_Region&outSR=4326&f=geojson"
+neighbourhood_name_field = "ONS_Name"
+
+[source]
+sqlite_path = "C:/Users/kk/Code/ontario-address-changes/data/ottawa/ottawa.db"
+
+# Per-city projection recipe (multi-city Tier 2), measured against snapshot 43
+# (2026-08-15, 402,992 active rows — the largest source after Toronto;
+# PI_MUNICIPAL_ADDRESS_ID is a stable key).
+[source_fields]
+# FULLNAME is typed, ALL-CAPS abbreviated ("CHURCHILL AVE N") — TODO §9
+# gates upload. French street names are suffix-styled like English ones
+# (only 347 rows lead with RUE/CHEMIN etc., 0.09%) — the survey's French-
+# suffix concern applies to SDG/rural east, not Ottawa city proper.
+street_from = "street"
+# NOT "full": FULLADDR interleaves the qualifier and unit ("128 B FLANDERS
+# ST"; 57,066 rows deviate from number+street). Synthesize.
+full_from = "number+street"
+# No municipality/community field in the thin 7-key props (2001 amalgamated
+# Nepean/Kanata/Gloucester/etc. left no per-row trace); ONS regions in the
+# tile fabric carry the geography instead. No ward, no status, no postcode.
+# UNITID on 40,127 rows (10.0%).
+unit = "unit"
+# KNOWN LOSS, decide before any import: 18,002 rows carry a QUALIFIER letter
+# that is really part of the housenumber ("128 B" — OSM would write 128B).
+# ADDRNUM drops it and no concat spec exists yet; collapse folds "128 B"
+# rows into "128". Fine for the observer/QA consumer; wrong for an import.
+# ADDRTYPE (MAIN 293,413 / SUBORD 109,579) is a row-kind flag, not
+# Toronto's address_class — undeclared for-cause.
+
+# 09-units.md option 2. 402,992 rows -> 349,142 distinct (number, street)
+# pairs (measured 2026-08-16).
+[units]
+policy = "collapse-to-civic"
+
+[run_defaults]
+# Densest Centretown cell (5,045 rows) for first test runs.
+bbox = [45.408, -75.708, 45.420, -75.696]
+overpass_url = "https://overpass-api.de/api/interpreter"
+
+[osm]
+source = "local"
+# Same Ontario PBF as every city in the portfolio.
+pbf_url = "https://download.geofabrik.de/north-america/canada/ontario-latest.osm.pbf"
+# Source-data extent (402,992 rows measured 2026-08-16: lat 44.97161..
+# 45.52724, lon -76.34140..-75.25014) plus a small margin. The north edge is
+# the Ottawa River and GATINEAU, QUEBEC — outside Ontario's PBF the extract
+# still covers it? NO: the Ontario extract clips at the provincial boundary,
+# which here is the river, so Quebec-side OSM noise is naturally excluded.
+# See 10-boundary-clipping.md for the rural east (SDG adjacency).
+city_bbox = [44.95, -76.37, 45.55, -75.22]
+extract_dir = "data/osm"
+
+[conflation]
+match_radius_m = 100
+match_near_m = 15
+
+[checks]
+match_far = true
+# suffix_range deliberately absent: no lo_num/hi_num in this source.
+city_duplicate = true
+missing_sample = true
+nearby_street_mismatch = true
+
+[check_params.city_duplicate]
+radius_m = 3.0
+
+[check_params.missing_sample]
+every_nth = 50
+
+[check_params.nearby_street_mismatch]
+radius_m = 20.0
+
+[check_params.match_number_drift]
+slack_m = 2.0
+
+[upload]
+changesets_per_minute = 1
+changeset_comment_template = "{city} Open Data address import, run={run_name}"
+
+[export]
+attribution = "City of Ottawa Open Data"
+# Deliberately empty and expected to STAY empty pending the etiquette pass:
+# the survey read Ottawa as community-mapped (82% ways, 15.3% gap) — the
+# observer/QA consumer, not an import, unless the entry-state probe and a
+# conversation with the community say otherwise.
+import_plan = ""
