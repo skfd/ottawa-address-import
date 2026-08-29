@@ -16,8 +16,8 @@ sqlite_path = "C:/Users/kk/Code/ontario-address-changes/data/ottawa/ottawa.db"
 # (2026-08-15, 402,992 active rows — the largest source after Toronto;
 # PI_MUNICIPAL_ADDRESS_ID is a stable key).
 [source_fields]
-# FULLNAME is typed, ALL-CAPS abbreviated ("CHURCHILL AVE N") — TODO §9
-# gates upload. French street names are suffix-styled like English ones
+# FULLNAME is typed, ALL-CAPS abbreviated ("CHURCHILL AVE N") — title-cased
+# on export since 2026-08-29 ([export] street_case). French street names are suffix-styled like English ones
 # (only 347 rows lead with RUE/CHEMIN etc., 0.09%) — the survey's French-
 # suffix concern applies to SDG/rural east, not Ottawa city proper.
 street_from = "street"
@@ -93,3 +93,16 @@ attribution = "City of Ottawa Open Data"
 # observer/QA consumer, not an import, unless the entry-state probe and a
 # conversation with the community say otherwise.
 import_plan = ""
+
+# The source shouts. Title-cased on the export path only, so street_raw keeps
+# the source spelling and conflation is untouched. Swept over all 8,618 distinct
+# street names 2026-08-29: no all-caps word survives the step.
+#
+# CASING IS NOT THE GATE HERE. 157 of the 8,618 names are French written
+# INVERTED and unaccented — "ARBRES, RUE DES", "BAIE-DES-CASTORS, RUE DE LA",
+# "ACADIE, COUR DE L'". Title-casing makes them "Arbres, Rue Des", which is
+# tidier and still not the name: OSM wants "rue des Arbres", with the accents
+# the source has dropped. Reordering and re-accenting is a separate piece of
+# work and it blocks any upload of those rows. (The earlier note that only 347
+# rows lead with RUE/CHEMIN missed these, because they do not lead with it.)
+street_case = "title"

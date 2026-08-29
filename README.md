@@ -28,7 +28,9 @@ import" mapper is owed a conversation before anything else, with Matthew
 Darwin as the second contact.
 
 Traits (details in config comments): stable key; ALL-CAPS abbreviated
-streets; `FULLADDR` interleaves qualifier and unit; 18,002 QUALIFIER rows
+streets (title-cased on export since 2026-08-29, `[export] street_case` —
+but 157 inverted, unaccented French names still block any upload of those
+rows); `FULLADDR` interleaves qualifier and unit; 18,002 QUALIFIER rows
 whose letter belongs in the housenumber (a decision owed before any
 import); ADDRTYPE splits MAIN/SUBORD 73/27; 10% units collapsed to civic;
 tiles subdivide the 116 ONS Gen 3 neighbourhoods at 100.00% coverage.
